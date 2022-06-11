@@ -17,12 +17,19 @@ $ npm start
 ```
 
 ## API contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Create ToDo](#Create New ToDo)
+* [Create Item](#Create New ToDo item)
+* [Get All](#Get All ToDo)
+* [Get ToDo](#Get specific ToDo)
+* [Mark ToDo is complete](#Mark ToDo is complete)
+* [Mark item is complete](#Mark item is complete)
+* [Update Todo](#Update Todo)
+* [Update item](#Update Todo item)
+* [Delete Todo](#Delete specific Todo)
+* [Delete item](#Delete specific item)
 
 
-## create New ToDo 
+## Create New ToDo 
 * Method : POST
 * url : localhost:3000/todo/new
 * requestBody : 
@@ -35,7 +42,7 @@ $ npm start
     }]
     }
     ```
-## create New ToDo item
+## Create New ToDo item
 * Method : POST
 * url : localhost:3000/todo/newItem
 * requestHeader : 
