@@ -11,22 +11,22 @@ Tools required:
 
 ```
 $ git clone https://??
-$ cd Todo
+$ cd ToDoApp
 $ npm install
 $ npm start
 ```
 
 ## API contents
-* [Create ToDo](#Create New ToDo)
-* [Create Item](#Create New ToDo item)
-* [Get All](#Get All ToDo)
-* [Get ToDo](#Get specific ToDo)
-* [Mark ToDo is complete](#Mark ToDo is complete)
-* [Mark item is complete](#Mark item is complete)
-* [Update Todo](#Update Todo)
-* [Update item](#Update Todo item)
-* [Delete Todo](#Delete specific Todo)
-* [Delete item](#Delete specific item)
+* [Create ToDo](#Create-New-ToDo)
+* [Create Item](#Create-New-ToDo-item)
+* [Get All](#Get-All-ToDo)
+* [Get ToDo](#Get-specific-ToDo)
+* [Mark ToDo is complete](#Mark-ToDo-is-complete)
+* [Mark item is complete](#Mark-item-is-complete)
+* [Update Todo](#Update-Todo)
+* [Update item](#Update-Todo-item)
+* [Delete Todo](#Delete-specific-Todo)
+* [Delete item](#Delete-specific-item)
 
 
 ## Create New ToDo 
